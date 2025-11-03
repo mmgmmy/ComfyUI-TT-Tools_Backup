@@ -1,5 +1,5 @@
 # ComfyUI-TT-Tools_Backup
-原作者删库了，这是一个备份
+原作者删库了，这是一个备份/n
 ComfyUI-TT-Tools下载解压，放到ComfyUI\custom_nodes下面
 Powershell进入ComfyUI\custom_nodes\ComfyUI-TT-Tools运行
 python -m pip install -r requirements.txt
